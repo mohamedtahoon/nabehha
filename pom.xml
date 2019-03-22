@@ -34,10 +34,15 @@
             <artifactId>genson</artifactId>
             <version>0.99</version>
         </dependency>
-        <dependency>
+<!--        <dependency>
             <groupId>oracle</groupId>
             <artifactId>ojdbc6</artifactId>
             <version>11.2.0</version>
+        </dependency>-->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.13</version>
         </dependency>
     </dependencies>
 
@@ -88,6 +93,7 @@
                     </execution>
                 </executions>
             </plugin>
+
             <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-dependency-plugin</artifactId>
