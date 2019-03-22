@@ -1,0 +1,15 @@
+utilities\UserTableConstants.class
+dao\tripdao\TripDaoImp.class
+utilities\Constants.class
+pojo\Trip.class
+userservice\RegisterationFailedException.class
+dao\userdao\UserDao.class
+pojo\User.class
+tripservice\TripService.class
+userservice\UserService.class
+dao\DataBaseConnectionHandler.class
+dao\tripdao\TripDAO.class
+userservice\UserNotFoundException.class
+utilities\TripTableConstants.class
+pojo\TripNotes.class
+dao\userdao\UserDaoImp.class
