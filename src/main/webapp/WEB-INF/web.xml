@@ -12,9 +12,7 @@
         <servlet-name>TripService</servlet-name>
         <url-pattern>/tripservice/*</url-pattern>
     </servlet-mapping>
-    
-     
-    <init-param>
+     <init-param>
         <param-name>com.sun.jersey.config.property.packages</param-name>
         <param-value>tripservice</param-value>
     </init-param>
